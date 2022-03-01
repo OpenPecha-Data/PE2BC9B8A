@@ -1,0 +1,28 @@
+id: PE2BC9B8A
+initial_creation_type: input
+source_metadata:
+  title: Sarasvatī Series
+  language: bo
+  description: 'Texts related to Sarasvatī (dbyangs can ma), the goddess of eloquence:'
+  volume:
+    91bd7043d6644abb98a2697bf0460939:
+      title: 'Ripples on the Ganges: In Praise of the Goddess Sarasvatī'
+      parent: Praise
+    5195fa0f50d3419eb71f2bdb2969d41d:
+      title: 'The Melodious Song of Vajra Harmony: In Praise of Red Sarasvatī'
+      parent: Praise
+    0027e65789924ab1a8a1dd16f14dc90d:
+      title: 'The Sweet Sound of Perfect Joy: In Praise of the Goddess Sarasvatī'
+      parent: Praise
+    d3d242334fec430eb014319c04567175:
+      title: A Sādhana of Tārā Sarasvatī
+      parent: Sādhanas
+    e9b933ac3a8e4fc6a38d136ea778cc9b:
+      title: A Sādhana of White Sarasvatī
+      parent: Sādhanas
+    5f10b24286d944d08d75e237b3902b8b:
+      title: A Concise Meditation and Mantra Recitation of Sarasvatī from the Heart
+        Essence of the Ḍākinī of Suchness (Chönyi Khandrö Tuktik)
+      parent: Sādhanas
+created_at: '2022-03-01T05:41:51.862924'
+last_modified_at: '2022-03-01T05:41:51.862926'
